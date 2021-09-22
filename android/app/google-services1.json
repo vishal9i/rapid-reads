@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "497174468064",
+    "project_id": "rapid-reads-321812",
+    "storage_bucket": "rapid-reads-321812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497174468064:android:ee0354ba28f6a2a9298785",
+        "android_client_info": {
+          "package_name": "com.rapid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497174468064-ftoaakp924lrns1ro3tk3ul9d8criulh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXcll-xv-rgllXwWsrJlL7gC4vtaXgfkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497174468064-ftoaakp924lrns1ro3tk3ul9d8criulh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497174468064-40b012rufvnnfqeuq8r2nl7bd70r6062.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Rapid",
+    "slug": "Rapid",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "config": {
+        "googleSignIn": {
+          "apiKey" : "AIzaSyDm2cpYxnVWGX1C5JxuAUToP8lISPBNc3g",
+          "certificateHash": "7ED5CADFEAA51A8EE38E2EFD4A215D40CCEFC1B3"
+        }
+      }
+    }
+  },
+  "name": "Rapid"
+}

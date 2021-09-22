@@ -1,0 +1,4 @@
+{
+    "BASE_URL":"https://digi-rapid-reads-backend.herokuapp.com/api",
+    "Image_Url":"https://rapid-reads-ash.herokuapp.com/"
+}
